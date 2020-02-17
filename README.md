@@ -1,7 +1,7 @@
 ﻿# Interviews
 > Your personal guide to Software Engineering technical interviews. Video
 > solutions to the following interview problems with detailed explanations can be found [here](https://www.elmntrix.tech).
-<a href="https://www.elmntrix.tech" style="display:block;"><img src="/images/youtube.jpg?raw=true"></a>
+<a href="https://www.elmntrix.tech" style="display:block;"><img src="/images/youtube.png?raw=true"></a>
 >
 > Maintainer - [Uddesh Palandurkar](https://github.com/elmntrix-uddesh)
 
