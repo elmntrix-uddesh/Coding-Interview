@@ -24,7 +24,7 @@
 - [Directory Tree](#directory-tree)
 
 ## Instagram 
-* [Programeme](https://www.instagram.com/midnight_issh/)
+* [Uddesh Palandurkar](https://www.instagram.com/midnight_issh/)
 
 
 ## Online Judges
